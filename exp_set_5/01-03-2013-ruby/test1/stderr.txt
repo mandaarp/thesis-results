@@ -1,0 +1,2 @@
+10093.79user 22.04system 1:53:17elapsed 148%CPU (0avgtext+0avgdata 1433104maxresident)k
+56inputs+3072outputs (0major+6971039minor)pagefaults 0swaps

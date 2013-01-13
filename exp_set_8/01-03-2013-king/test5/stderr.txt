@@ -1,0 +1,2 @@
+16255.64user 18.40system 2:18:19elapsed 196%CPU (0avgtext+0avgdata 1475776maxresident)k
+0inputs+11912outputs (0major+11589163minor)pagefaults 0swaps

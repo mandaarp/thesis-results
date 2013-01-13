@@ -1,0 +1,2 @@
+22661.14user 71.14system 4:16:29elapsed 147%CPU (0avgtext+0avgdata 1732768maxresident)k
+0inputs+16280outputs (0major+17623135minor)pagefaults 0swaps

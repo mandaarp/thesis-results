@@ -1,0 +1,181 @@
+num_of_prototypes: 200
+debug mode: False
+generating SVMs - one for each direction ...
+training path: /u/mandar/thesis-images/dataset/neighbor_svm/train/pedestrian-back
+class name: pedestrian-back
+initializing the pedestrian-back SVM ...
+training path: /u/mandar/thesis-images/dataset/neighbor_svm/train/pedestrian-front
+class name: pedestrian-front
+initializing the pedestrian-front SVM ...
+training path: /u/mandar/thesis-images/dataset/neighbor_svm/train/pedestrian-left
+class name: pedestrian-left
+initializing the pedestrian-left SVM ...
+training path: /u/mandar/thesis-images/dataset/neighbor_svm/train/pedestrian-right
+class name: pedestrian-right
+initializing the pedestrian-right SVM ...
+imprinting S2 prototypes for each SVM ...
+configuring the pedestrian-back SVM ...
+configuring the pedestrian-front SVM ...
+configuring the pedestrian-left SVM ...
+configuring the pedestrian-right SVM ...
+training each SVM ...
+training the pedestrian-back SVM ...
+training accuracy: 0.81875
+training the pedestrian-front SVM ...
+training accuracy: 0.8275
+training the pedestrian-left SVM ...
+training accuracy: 0.8475
+training the pedestrian-right SVM ...
+training accuracy: 0.82125
+testing each SVM ...
+testing the pedestrian-back SVM ...
+testing the pedestrian-front SVM ...
+testing the pedestrian-left SVM ...
+testing the pedestrian-right SVM ...
+dumping experiments at . ...
+writing classifications in classification_result.csv ...
+predicting test accuracy ...
+match found: pedestrian-left-438.jpg -> pedestrian-left
+
+match found: pedestrian-back-415.jpg -> pedestrian-back
+
+match found: pedestrian-left-411.jpg -> pedestrian-left
+
+match found: pedestrian-front-438.jpg -> pedestrian-front
+
+match found: pedestrian-left-431.jpg -> pedestrian-left
+
+match found: pedestrian-left-424.jpg -> pedestrian-left
+
+match found: pedestrian-left-444.jpg -> pedestrian-left
+
+match found: pedestrian-left-439.jpg -> pedestrian-left
+
+match found: pedestrian-back-411.jpg -> pedestrian-back
+
+match found: pedestrian-left-405.jpg -> pedestrian-left
+
+match found: pedestrian-left-445.jpg -> pedestrian-left
+
+match found: pedestrian-front-405.jpg -> pedestrian-front
+
+match found: pedestrian-left-425.jpg -> pedestrian-left
+
+match found: pedestrian-front-425.jpg -> pedestrian-front
+
+match found: pedestrian-left-427.jpg -> pedestrian-left
+
+match found: pedestrian-back-449.jpg -> pedestrian-back
+
+match found: pedestrian-front-430.jpg -> pedestrian-front
+
+match found: pedestrian-right-432.jpg -> pedestrian-right
+
+match found: pedestrian-front-409.jpg -> pedestrian-front
+
+match found: pedestrian-right-408.jpg -> pedestrian-right
+
+match found: pedestrian-left-436.jpg -> pedestrian-left
+
+match found: pedestrian-back-430.jpg -> pedestrian-back
+
+match found: pedestrian-right-431.jpg -> pedestrian-right
+
+match found: pedestrian-left-429.jpg -> pedestrian-left
+
+match found: pedestrian-left-402.jpg -> pedestrian-left
+
+match found: pedestrian-front-441.jpg -> pedestrian-front
+
+match found: pedestrian-back-405.jpg -> pedestrian-back
+
+match found: pedestrian-front-418.jpg -> pedestrian-front
+
+match found: pedestrian-left-419.jpg -> pedestrian-left
+
+match found: pedestrian-back-440.jpg -> pedestrian-back
+
+match found: pedestrian-front-436.jpg -> pedestrian-front
+
+match found: pedestrian-left-406.jpg -> pedestrian-left
+
+match found: pedestrian-front-439.jpg -> pedestrian-front
+
+match found: pedestrian-back-448.jpg -> pedestrian-back
+
+match found: pedestrian-front-435.jpg -> pedestrian-front
+
+match found: pedestrian-left-410.jpg -> pedestrian-left
+
+match found: pedestrian-left-426.jpg -> pedestrian-left
+
+match found: pedestrian-left-417.jpg -> pedestrian-left
+
+match found: pedestrian-left-446.jpg -> pedestrian-left
+
+match found: pedestrian-front-448.jpg -> pedestrian-front
+
+match found: pedestrian-left-414.jpg -> pedestrian-left
+
+match found: pedestrian-front-414.jpg -> pedestrian-front
+
+match found: pedestrian-front-432.jpg -> pedestrian-front
+
+match found: pedestrian-front-419.jpg -> pedestrian-front
+
+match found: pedestrian-left-403.jpg -> pedestrian-left
+
+match found: pedestrian-left-449.jpg -> pedestrian-left
+
+match found: pedestrian-front-433.jpg -> pedestrian-front
+
+match found: pedestrian-left-448.jpg -> pedestrian-left
+
+match found: pedestrian-left-418.jpg -> pedestrian-left
+
+match found: pedestrian-front-429.jpg -> pedestrian-front
+
+match found: pedestrian-back-419.jpg -> pedestrian-back
+
+match found: pedestrian-right-441.jpg -> pedestrian-right
+
+match found: pedestrian-back-426.jpg -> pedestrian-back
+
+match found: pedestrian-left-420.jpg -> pedestrian-left
+
+match found: pedestrian-back-436.jpg -> pedestrian-back
+
+match found: pedestrian-left-422.jpg -> pedestrian-left
+
+match found: pedestrian-front-442.jpg -> pedestrian-front
+
+match found: pedestrian-left-433.jpg -> pedestrian-left
+
+self.positives: 58
+self.total_images: 200
+ ========== confusion matrix ==========
+back-as-front : 11
+back-as-left  : 8
+back-as-right : 11
+
+
+front-as-back : 18
+front-as-left : 4
+front-as-right: 7
+
+
+left-as-back  : 6
+left-as-front : 11
+left-as-right : 28
+
+
+right-as-back : 16
+right-as-front: 13
+right-as-left : 11
+
+
+
+ Test Accuracy in fraction: 0.29
+
+
+test accuracy: 29.0

@@ -1,0 +1,2 @@
+32920.20user 52.91system 4:36:51elapsed 198%CPU (0avgtext+0avgdata 1997808maxresident)k
+0inputs+20704outputs (0major+21965745minor)pagefaults 0swaps

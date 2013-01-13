@@ -1,0 +1,2 @@
+9774.13user 15.04system 1:22:17elapsed 198%CPU (0avgtext+0avgdata 1422592maxresident)k
+267648inputs+3200outputs (0major+6153141minor)pagefaults 0swaps
