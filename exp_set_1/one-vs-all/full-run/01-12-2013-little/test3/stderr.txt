@@ -1,0 +1,2 @@
+60977.94user 33.31system 4:15:37elapsed 397%CPU (0avgtext+0avgdata 568448maxresident)k
+527736inputs+80outputs (107major+20478694minor)pagefaults 0swaps

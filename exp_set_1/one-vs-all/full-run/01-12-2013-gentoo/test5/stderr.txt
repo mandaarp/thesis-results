@@ -1,0 +1,2 @@
+96324.34user 1180.31system 6:54:02elapsed 392%CPU (0avgtext+0avgdata 818896maxresident)k
+493104inputs+80outputs (8major+79055970minor)pagefaults 0swaps

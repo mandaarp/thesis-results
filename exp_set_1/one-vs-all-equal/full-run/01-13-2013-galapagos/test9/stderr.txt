@@ -1,0 +1,2 @@
+91002.53user 666.90system 7:27:25elapsed 341%CPU (0avgtext+0avgdata 1270064maxresident)k
+267376inputs+80outputs (0major+98223838minor)pagefaults 0swaps

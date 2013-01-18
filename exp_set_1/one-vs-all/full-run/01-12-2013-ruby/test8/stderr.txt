@@ -1,0 +1,2 @@
+185338.97user 502.86system 21:20:39elapsed 241%CPU (0avgtext+0avgdata 1149808maxresident)k
+517936inputs+80outputs (88major+147993063minor)pagefaults 0swaps

@@ -1,0 +1,2 @@
+42763.31user 130.24system 3:09:55elapsed 376%CPU (0avgtext+0avgdata 684880maxresident)k
+278880inputs+88outputs (8major+31148768minor)pagefaults 0swaps

@@ -1,4 +1,0 @@
-ERROR:root:Failed to process image (/u/mandar/thesis-images/one-vs-all/train/pedestrian-right/xnon-right/pedestrian-back-173.jpg): image read error
-Command exited with non-zero status 255
-1623.96user 1.55system 7:29.41elapsed 361%CPU (0avgtext+0avgdata 231184maxresident)k
-111984inputs+24outputs (8major+294629minor)pagefaults 0swaps
