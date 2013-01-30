@@ -1,0 +1,2 @@
+31821.78user 52.95system 2:13:48elapsed 397%CPU (0avgtext+0avgdata 333632maxresident)k
+480448inputs+88outputs (0major+21343810minor)pagefaults 0swaps

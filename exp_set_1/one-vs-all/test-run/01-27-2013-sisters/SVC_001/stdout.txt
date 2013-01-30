@@ -1,5 +1,5 @@
 ========== Experiment setup ==========
-num_of_prototypes: 200
+num_of_prototypes: 50
 debug mode: False
 dataset_prefix: /u/mandar/thesis-images/one-vs-all/
 prototype generation method: ImprintS2Prototypes
@@ -19,20 +19,20 @@ SVM: initializing the pedestrian-left SVM ...
 SVM: training path: /u/mandar/thesis-images/one-vs-all/train/pedestrian-right
 SVM: class name: pedestrian-right
 SVM: initializing the pedestrian-right SVM ...
-DirectionEstimator: imprinting 200 S2 prototypes for each SVM using ImprintS2Prototypes ...
+DirectionEstimator: imprinting 50 S2 prototypes for each SVM using ImprintS2Prototypes ...
 SVM: configuring the pedestrian-back SVM ...
 SVM: configuring the pedestrian-front SVM ...
 SVM: configuring the pedestrian-left SVM ...
 SVM: configuring the pedestrian-right SVM ...
 DirectionEstimator: training each SVM ...
 SVM: training the pedestrian-back SVM ...
-SVM: training accuracy: 0.25
+SVM: training accuracy: 0.75
 SVM: training the pedestrian-front SVM ...
-SVM: training accuracy: 0.25
+SVM: training accuracy: 0.75
 SVM: training the pedestrian-left SVM ...
-SVM: training accuracy: 0.25
+SVM: training accuracy: 0.75
 SVM: training the pedestrian-right SVM ...
-SVM: training accuracy: 0.25
+SVM: training accuracy: 0.75
 DirectionEstimator: testing each SVM ...
 SVM: testing the pedestrian-back SVM ...
 SVM: testing the pedestrian-front SVM ...
@@ -40,31 +40,31 @@ SVM: testing the pedestrian-left SVM ...
 SVM: testing the pedestrian-right SVM ...
 DirectionEstimator: writing classifications in classification_result.csv ...
 DirectionEstimator: predicting test accuracy ...
-DirectionEstimator: self.positives: 50
+DirectionEstimator: self.positives: 80
 DirectionEstimator: self.total_images: 200
  ========== confusion matrix ==========
-back-as-front : 0
-back-as-left  : 0
-back-as-right : 0
+back-as-front : 7
+back-as-left  : 11
+back-as-right : 5
 
 
-front-as-back : 50
-front-as-left : 0
-front-as-right: 0
+front-as-back : 27
+front-as-left : 8
+front-as-right: 9
 
 
-left-as-back  : 50
-left-as-front : 0
-left-as-right : 0
+left-as-back  : 9
+left-as-front : 7
+left-as-right : 18
 
 
-right-as-back : 50
-right-as-front: 0
-right-as-left : 0
+right-as-back : 6
+right-as-front: 3
+right-as-left : 14
 
 
 
- Test Accuracy in fraction: 0.25
+ Test Accuracy in fraction: 0.4
 
 
-test accuracy: 25.0
+test accuracy: 40.0
