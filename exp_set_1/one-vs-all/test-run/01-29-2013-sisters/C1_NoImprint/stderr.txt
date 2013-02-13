@@ -1,0 +1,21 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/threading.py", line 551, in __bootstrap_inner
+    self.run()
+  File "/usr/lib/python2.7/threading.py", line 504, in run
+    self.__target(*self.__args, **self.__kwargs)
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 302, in _handle_workers
+    pool._maintain_pool()
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 206, in _maintain_pool
+    self._repopulate_pool()
+  File "/usr/lib/python2.7/multiprocessing/pool.py", line 199, in _repopulate_pool
+    w.start()
+  File "/usr/lib/python2.7/multiprocessing/process.py", line 130, in start
+    self._popen = Popen(self)
+  File "/usr/lib/python2.7/multiprocessing/forking.py", line 120, in __init__
+    self.pid = os.fork()
+OSError: [Errno 12] Cannot allocate memory
+
+Command terminated by signal 9
+4727.42user 99.07system 1:26:31elapsed 92%CPU (0avgtext+0avgdata 14560160maxresident)k
+7961216inputs+80outputs (105612major+3748069minor)pagefaults 0swaps

@@ -1,0 +1,30 @@
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-50_Imprint.csv
+normalized-voting Accuracy: 19.5
+TwoSVM Accuracy: 19.0
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-100_Imprint.csv
+normalized-voting Accuracy: 16.5
+TwoSVM Accuracy: 25.0
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-150_Imprint.csv
+normalized-voting Accuracy: 18.0
+TwoSVM Accuracy: 26.5
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-200_Imprint.csv
+normalized-voting Accuracy: 18.0
+TwoSVM Accuracy: 28.5
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-250_Imprint.csv
+normalized-voting Accuracy: 17.5
+TwoSVM Accuracy: 27.5
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-300_Imprint.csv
+normalized-voting Accuracy: 18.5
+TwoSVM Accuracy: 24.0
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-350_Imprint.csv
+normalized-voting Accuracy: 13.5
+TwoSVM Accuracy: 17.0
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-400_Imprint.csv
+normalized-voting Accuracy: 17.0
+TwoSVM Accuracy: 23.5
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-450_Imprint.csv
+normalized-voting Accuracy: 24.5
+TwoSVM Accuracy: 28.5
+File: /u/mandar/thesis-results/custom/multi-class-bottleneck/data/decision_values_one-vs-one_N-500_Imprint.csv
+normalized-voting Accuracy: 19.0
+TwoSVM Accuracy: 31.0

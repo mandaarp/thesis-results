@@ -3,3 +3,12 @@ uuencode: fopen-ing decision_values.csv: No such file or directory
 uuencode: fopen-ing classification_result.csv: No such file or directory
 uuencode: fopen-ing decision_values.csv: No such file or directory
 uuencode: fopen-ing classification_result.csv: No such file or directory
+uuencode: fopen-ing stdout.txt: Stale NFS file handle
+uuencode: fopen-ing stderr.txt: Stale NFS file handle
+uuencode: fopen-ing decision_values.csv: Stale NFS file handle
+uuencode: fopen-ing classification_result.csv: Stale NFS file handle
+./multihost-nightly-run.sh: 27: cd: can't cd to ..
+uuencode: fopen-ing decision_values.csv: No such file or directory
+uuencode: fopen-ing classification_result.csv: No such file or directory
+uuencode: fopen-ing decision_values.csv: No such file or directory
+uuencode: fopen-ing classification_result.csv: No such file or directory
