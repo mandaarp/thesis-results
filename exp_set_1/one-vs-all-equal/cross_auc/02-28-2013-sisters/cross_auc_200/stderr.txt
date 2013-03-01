@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/u/mandar/thesis-code/src/Main.py", line 36, in <module>
+    direction_estimator.train()
+  File "/u/mandar/thesis-code/src/DirectionEstimator.py", line 138, in train
+    self.svm_person_back.train()
+  File "/u/mandar/thesis-code/src/SVM.py", line 144, in train
+    print "SVM: AUC" + str(self.experiment.test_results["auc"])
+TypeError: 'NoneType' object has no attribute '__getitem__'
+Command exited with non-zero status 1
+25846.58user 42.05system 2:17:45elapsed 313%CPU (0avgtext+0avgdata 682048maxresident)k
+50432inputs+24outputs (0major+14920554minor)pagefaults 0swaps
