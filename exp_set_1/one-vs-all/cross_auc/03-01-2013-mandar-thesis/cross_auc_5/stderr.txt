@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/mandar/thesis-code/src/Main.py", line 36, in <module>
+    direction_estimator.train()
+  File "/home/mandar/thesis-code/src/DirectionEstimator.py", line 138, in train
+    self.svm_person_back.train()
+  File "/home/mandar/thesis-code/src/SVM.py", line 144, in train
+    if self.experiment.auc is not None:
+AttributeError: 'Experiment' object has no attribute 'auc'
